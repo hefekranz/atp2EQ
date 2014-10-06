@@ -14,4 +14,4 @@ since the examples in the VST SDK are somehow hard to grasp for newbies.
 
 All the best,
 
-Dennis and Levin
+Levin
